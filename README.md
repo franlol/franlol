@@ -1,5 +1,4 @@
 ## Hello! I'm Fran 👋
----
 
 ### 🛠 ️Tech Stack
 - 🌐  HTML | CSS | Typescript | Node
