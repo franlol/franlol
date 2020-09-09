@@ -1,7 +1,7 @@
 ## Hello! I'm Fran 👋
 
 ### 🛠 ️Tech Stack
-- 🌐  HTML | CSS | Typescript | Node
+- 🌐 HTML | CSS | Typescript | Node
 - 🕮 React | Redux | NextJS | Express
 - 🧪 Jest | Cypress
 - 🗃️ ️SQL | MongoDB
