@@ -20,3 +20,7 @@
     - [Rescue Diver](https://www.padi.com/courses/rescue-diver)
     - [Enriched Air / Nitrox Diver](https://www.padi.com/courses/enriched-air-diver)
     - [Wreck Diver](https://www.padi.com/courses/wreck-diver)
+
+----
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=franlol&show_icons=true&theme=)
