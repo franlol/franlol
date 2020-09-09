@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello! I'm Fran 👋
+---
 
-<!--
-**franlol/franlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 ️Tech Stack
+- 🌐  HTML | CSS | Typescript | Node
+- 🕮 React | Redux | NextJS | Express
+- 🧪 Jest | Cypress
+- 🗃️ ️SQL | MongoDB
+- 🔨 Git | Jenkins
+- 🖥️ ️Linux
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About me
+- 🎓 Robotics Superior Technician & Web Developer Superior Technician
+- 👜 Working as a Full Stack MERN Developer
+- 🌱 Learning more about Security
+- 📜 I love to be updated, as I believe it is the key to being successful
+- 🤓 But not everything is is about computers... Im also a 🤿 [PADI](https://www.padi.com/education) certified diver:
+    - [Open Water diver](https://www.padi.com/courses/open-water-diver)
+    - [Advanced Diver](https://www.padi.com/courses/advanced-open-water)
+    - [Rescue Diver](https://www.padi.com/courses/rescue-diver)
+    - [Enriched Air / Nitrox Diver](https://www.padi.com/courses/enriched-air-diver)
+    - [Wreck Diver](https://www.padi.com/courses/wreck-diver)
