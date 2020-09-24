@@ -2,7 +2,7 @@
 
 ### 🛠 ️Tech Stack
 - 🌐 HTML | CSS | Typescript | Node
-- 🕮 React | Redux | NextJS | Express
+- 🕮 React | Redux | NextJS | Express | GraphQL
 - 🗃️ ️SQL | MongoDB
 - 🔨 Git | Jenkins
 - 🖥️ ️Linux
