@@ -3,6 +3,7 @@
 ### 🛠 ️Tech Stack
 - 🌐 HTML | CSS | Typescript | Node
 - 🕮 React | Redux | NextJS | Express | GraphQL
+- ✅ Jest | React-testing-library
 - 🗃️ ️SQL | MongoDB
 - 🔨 Git | Jenkins
 - 🖥️ ️Linux
@@ -10,7 +11,7 @@
 ### 👨‍💻 About me
 - 🎓 Robotics Superior Technician & Web Developer Superior Technician
 - 👜 Working as a Full Stack MERN Developer
-- 🌱 Learning more about Testing
+- 🌱 Improving in cyber security
 - 📜 I love to be updated, as I believe it is the key to being successful
 - 🌊 But not everything is is about computers... I also love the ocean
 - 🤿 I'm a [PADI](https://www.padi.com/education) certified Scuba Diver:
