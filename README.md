@@ -1,26 +1,2 @@
-## Hello! I'm Fran 👋
-
-### 🛠 ️Tech Stack
-- 🌐 HTML | CSS | Typescript | Node
-- 🕮 React | Redux | NextJS | Express | GraphQL
-- ✅ Jest | React-testing-library
-- 🗃️ ️SQL | MongoDB
-- 🔨 Git | Jenkins
-- 🖥️ ️Linux
-
-### 👨‍💻 About me
-- 🎓 Robotics Superior Technician & Web Developer Superior Technician
-- 👜 Working as a Full Stack MERN Developer
-- 🌱 Improving in cyber security
-- 📜 I love to be updated, as I believe it is the key to being successful
-- 🌊 But not everything is is about computers... I also love the ocean
-- 🤿 I'm a [PADI](https://www.padi.com/education) certified Scuba Diver:
-    - [Open Water Diver](https://www.padi.com/courses/open-water-diver)
-    - [Advanced Diver](https://www.padi.com/courses/advanced-open-water)
-    - [Rescue Diver](https://www.padi.com/courses/rescue-diver)
-    - [Enriched Air / Nitrox Diver](https://www.padi.com/courses/enriched-air-diver)
-    - [Wreck Diver](https://www.padi.com/courses/wreck-diver)
-
-----
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=franlol&show_icons=true&theme=)
